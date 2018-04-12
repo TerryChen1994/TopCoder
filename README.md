@@ -2,6 +2,5 @@
 ---
 Java code of Topcoder Problems
 </br>
-###Newest Code
-</br>
-SRM732 DivII 250 - 
+### Newest Code
+* 2018/04/12 SRM732 DivII 250 - 
